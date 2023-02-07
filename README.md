@@ -1,10 +1,10 @@
 # SEBASTIAN RIVERA
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/username" width="100"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </p>
 
-Soy un desarrollador/a [insertar profesión o habilidad aquí], apasionado/a por [insertar pasión o interés aquí]. Mi objetivo es [insertar objetivo profesional o personal aquí].
+Ingeniero ambiental, desarrollador y barista, apasionado por la tecnologia. Mi objetivo es el desarrollo y despliegue de aplicaciones web.
 
 ## Experiencia
 
