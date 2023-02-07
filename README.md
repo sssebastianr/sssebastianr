@@ -1,4 +1,4 @@
-# Ingeniero ambiental, desarrollador y barista, apasionado por la tecnologia. Mi objetivo es el desarrollo y despliegue de aplicaciones web.
+# Ingeniero ambiental, desarrollador de software y barista, apasionado por la tecnologia. Mi objetivo es el desarrollo y despliegue de aplicaciones web.
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
