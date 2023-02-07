@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </p>
 
-Ingeniero ambiental, desarrollador y barista, apasionado por la tecnologia. Mi objetivo es el desarrollo y despliegue de aplicaciones web.
+
 
 ## Experiencia
 
