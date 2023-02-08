@@ -1,4 +1,4 @@
-# Ingeniero ambiental, desarrollador de software y barista, apasionado por la tecnologia. Mi objetivo es el desarrollo y despliegue de aplicaciones web.
+# Environmental engineer, software developer and barista, passionate about technology. My goal is the development and deploy of web applications.
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
@@ -6,14 +6,10 @@
 
 
 
-## Experiencia
-
-- [Nombre de la empresa/proyecto]: [Breve descripción del rol y responsabilidades]
-- [Nombre de la empresa/proyecto]: [Breve descripción del rol y responsabilidades]
-
 ## Educación
 
-- [Nombre de la institución]: [Título de la carrera o curso completado]
+- [Universidad Santo Tomás]: [Ingeniero ambiental]
+- 
 
 ## Habilidades
 
