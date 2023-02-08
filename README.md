@@ -8,8 +8,11 @@
 
 ## Educación
 
-- [Universidad Santo Tomás]: [Ingeniero ambiental]
-- 
+- Universidad Santo Tomás: Environmental engineer.
+- Universidad Sergio Arboleda: Diplomado en Fundamentos de Programacion con Python.
+- Universidad Sergio Arboleda: Diplomado en Programacion Basica con Java.
+- Universidad Sergio Arboleda: Diplomado en Desarrollo de Software.
+- Universidad Autonoma de Bucaramanga: Diplomado en Desarrollo de Aplicaciones Web.
 
 ## Habilidades
 
